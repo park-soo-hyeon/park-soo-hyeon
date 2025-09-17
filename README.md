@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
 
 <p align="center">
     <Strong>Tech Stack</Strong><br>
