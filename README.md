@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
+---
+
 ## Activity
 - **2025 호남IS해커톤 - AI 데이터를 활용한 해커톤** | 2025.06 ~ 2025.05 | 프론트엔드
 - **CMM - 동양미래대학교 졸업작품프로젝트** | 2025.03 ~ 진행중 | 팀장, 프론트엔드 
@@ -41,10 +43,14 @@
 
 <br><br>
 
+---
+
 <a href="https://github.com/park-soo-hyeon"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SooHyeon's github stats" /></a>
 <a href="https://github.com/park-soo-hyeon"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <br><br>
+
+---
 
 <p align="center">
 <Strong>Email 📧</Strong><br>parksoo0206@naver.com<br>
