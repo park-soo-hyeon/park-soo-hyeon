@@ -41,8 +41,8 @@
 
 <br><br>
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact)
+<a href="https://github.com/park-soo-hyeon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SooHyeon's github stats" /></a>
+<a href="https://github.com/park-soo-hyeon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <br><br>
 
