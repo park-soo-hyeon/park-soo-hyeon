@@ -40,6 +40,11 @@
 - **2023 전문대학 동반성장을 위한 신사업분야 성과포럼** | 동양미래대학교 | 2024.01.24 | 🏆 우수상
 
 <br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<br><br>
+
 <p align="center">
 <Strong>Email 📧</Strong><br>parksoo0206@naver.com<br>
 </p>
