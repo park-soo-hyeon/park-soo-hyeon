@@ -41,7 +41,7 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&theme=radical)
 
 <br><br>
 
