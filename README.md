@@ -42,6 +42,7 @@
 <br><br>
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact)
 
 <br><br>
 
