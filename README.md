@@ -41,16 +41,14 @@
 - **2024 동양미래EXPO(제 42회 졸업작품전시회)** | 동양미래대학교 | 2024.11.25 | 🏆 대상
 - **2023 전문대학 동반성장을 위한 신사업분야 성과포럼** | 동양미래대학교 | 2024.01.24 | 🏆 우수상
 
-<br><br>
-
 ---
 
-<a href="https://github.com/park-soo-hyeon"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SooHyeon's github stats" /></a>
-<a href="https://github.com/park-soo-hyeon"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true" /></a> 
+<div align="center">
+  <a href="https://github.com/park-soo-hyeon"><img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=park-soo-hyeon&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SooHyeon's github stats" /></a>
+  <a href="https://github.com/park-soo-hyeon"><img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true" /></a>
+</div>
 
 <br><br>
-
----
 
 <p align="center">
 <Strong>Email 📧</Strong><br>parksoo0206@naver.com<br>
