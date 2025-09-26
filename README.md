@@ -41,6 +41,26 @@
 - **2024 동양미래EXPO(제 42회 졸업작품전시회)** | 동양미래대학교 | 2024.11.25 | 🏆 대상
 - **2023 전문대학 동반성장을 위한 신사업분야 성과포럼** | 동양미래대학교 | 2024.01.24 | 🏆 우수상
 
+---
+
+<div align="center">
+  <a href="https://github.com/park-soo-hyeon">
+    <img 
+      style="height:150px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true&exclude_repo=park-soo-hyeon.github.io" 
+      alt="GitHub Top Languages"
+    />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp; <a href="https://wakatime.com/@park-soo-hyeon">
+    <img 
+      style="height:150px" 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=park-soo-hyeon&theme=nord&hide_border=true&layout=compact" 
+      alt="WakaTime Stats"
+    />
+  </a>
+</div>
+
 <br><br>
 
 <p align="center">
