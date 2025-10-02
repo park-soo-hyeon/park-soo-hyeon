@@ -52,7 +52,7 @@
     />
   </a>
   
-  &nbsp;&nbsp;&nbsp; <a href="https://wakatime.com/@parksoohyeon">
+  <a href="https://wakatime.com/@parksoohyeon">
     <img 
       style="height:150px" 
       src="https://github-readme-stats.vercel.app/api/wakatime?username=park-soo-hyeon&theme=nord&hide_border=true&layout=compact" 
