@@ -54,7 +54,7 @@
   
   <a href="https://wakatime.com/@parksoohyeon">
     <img 
-      style="height:150px" 
+      style="height:150px width:100px" 
       src="https://github-readme-stats.vercel.app/api/wakatime?username=parksoohyeon&theme=nord&hide_border=true&layout=compact" 
       alt="WakaTime Stats"
     />
