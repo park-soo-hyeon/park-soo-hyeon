@@ -48,7 +48,7 @@
 <div align="center">
   <a href="https://github.com/park-soo-hyeon">
     <img 
-      style="height:150px" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true&exclude_repo=park-soo-hyeon.github.io" 
       alt="GitHub Top Languages"
     />
@@ -56,7 +56,7 @@
   
   <a href="https://wakatime.com/@parksoohyeon">
     <img 
-      style="height:150px width:100px" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/wakatime?username=parksoohyeon&theme=nord&hide_border=true&layout=compact" 
       alt="WakaTime Stats"
     />
