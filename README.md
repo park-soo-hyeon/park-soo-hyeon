@@ -45,23 +45,14 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/park-soo-hyeon">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true&exclude_repo=park-soo-hyeon.github.io" 
-      alt="GitHub Top Languages"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-soo-hyeon&layout=compact&theme=nord&hide_border=true&exclude_repo=park-soo-hyeon.github.io" height="180" />
   </a>
-  
   <a href="https://wakatime.com/@parksoohyeon">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=parksoohyeon&theme=nord&hide_border=true&layout=compact" 
-      alt="WakaTime Stats"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=parksoohyeon&theme=nord&hide_border=true&layout=compact" height="180" />
   </a>
-</div>
+</p>
 
 <br><br>
 
