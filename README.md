@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -34,23 +35,23 @@
 ---
 
 ## Activity
-- **[CMM] - 2025 종합학술발표대회 (교육장비개발 및 아이디어 경진대회)** | 2025.10 ~ 2025.11 | 팀장
-- **[CMM] - 2025학년도 동양미래대학교 스마트 SW 개발 경진대회 (졸업작품)** | 2025.03 ~ 2025.11 | 팀장 (API 연동, AWS 프론트엔드 배포 및 팀 리딩)
-- **[EL] - 동양미래대학교 대학 컴퓨터공학부 전공동아리** | 22기 ~ 23기 | 2024.02 ~ 2025.07 | 회장
-- **[2025 호남IS해커톤] - AI 데이터를 활용한 해커톤** | 2025.05 ~ 2025.06 | 프론트엔드
-- **[픽셀브레인] - 2024 동양미래대학교 컴퓨터공학부 경진대회** | 2024.04 ~ 2024.11 | 팀장, 캐릭터 구현
-- **[POSTECH OIBC] - 재생에너지 최적 입찰 빅데이터 경진대회** | 2024.09 ~ 2024.10 | 팀원 
-- **[EL] - 2024 동양미래EXPO(제 42회 졸업작품전시회)** | 2024.04 ~ 2024.10 | 사용자 대시보드 구현 (Frontend Lead)
-- **[EL] - 2023 전문대학 동반성장을 위한 신사업분야 성과포럼** | 2023.09 ~ 2024.01 | 프론트엔드
+- **[CMM] 2025 종합학술발표대회 (교육장비개발 경진대회)** | 2025.10 ~ 2025.11 | 팀장
+- **[CMM] 2025 스마트 SW 개발 경진대회 (졸업작품)** | 2025.03 ~ 2025.11 | 팀장 (Frontend 및 API 연동)
+- **[EL] 동양미래대학교 컴퓨터공학부 전공동아리** | 22기 ~ 23기 | 2024.02 ~ 2025.07 | 회장
+- **[2025 호남IS해커톤] AI 데이터를 활용한 해커톤** | 2025.05 ~ 2025.06 | 프론트엔드
+- **[픽셀브레인] 2024 동양미래대학교 컴퓨터공학부 경진대회** | 2024.04 ~ 2024.11 | 팀장 (캐릭터 구현)
+- **[POSTECH OIBC] 재생에너지 최적 입찰 빅데이터 경진대회** | 2024.09 ~ 2024.10 | 팀원 
+- **[EL] 2024 동양미래EXPO (제 42회 졸업작품전시회)** | 2024.04 ~ 2024.10 | Frontend Lead (대시보드 구현)
+- **[EL] 2023 전문대학 동반성장을 위한 성과포럼** | 2023.09 ~ 2024.01 | 프론트엔드
 
 ## Competition
-- **2025학년도 스마트 SW 개발 경진대회** | 동양미래대학교 | 2025.11.20 | 🏆 우수상
-- **교육장비개발 및 아이디어 경진대회** | (사)한국실천공학교육학회 | 2025.11.07 | 🏆 동상
-- **2025 호남IS해커톤** | 광주정보문화산업진흥원 | 2025.08.22 | 🏆 우수상
-- **2024 컴퓨터공학부 경진대회** | 동양미래대학교 | 2024.12.06 | 🏆 우수상
-- **2024 POSTECH OIBC 재생 에너지 최적 입찰 빅데이터 경진대회** | POSTECH OIBC | 2024.11.15 | 18등 
-- **2024 동양미래EXPO(제 42회 졸업작품전시회)** | 동양미래대학교 | 2024.11.25 | 🏆 대상
-- **2023 전문대학 동반성장을 위한 신사업분야 성과포럼** | 동양미래대학교 | 2024.01.24 | 🏆 우수상
+- **2025학년도 스마트 SW 개발 경진대회** | 동양미래대학교 | 2025.11.20 | 🥈 우수상
+- **교육장비개발 및 아이디어 경진대회** | (사)한국실천공학교육학회 | 2025.11.07 | 🥉 동상
+- **2025 호남IS해커톤** | 광주정보문화산업진흥원 | 2025.08.22 | 🥈 우수상
+- **2024 컴퓨터공학부 경진대회** | 동양미래대학교 | 2024.12.06 | 🥈 우수상
+- **2024 POSTECH OIBC 재생 에너지 최적 입찰 빅데이터 경진대회** | POSTECH OIBC | 2024.11.15 | 🏅 18등 
+- **2024 동양미래EXPO(제 42회 졸업작품전시회)** | 동양미래대학교 | 2024.11.25 | 🏆 대상
+- **2023 전문대학 동반성장을 위한 신사업분야 성과포럼** | 동양미래대학교 | 2024.01.24 | 🥈 우수상
 
 ## Qualifications
 - **AWS Certified Cloud Practitioner** | AWS | 2025.12
